@@ -9,7 +9,7 @@ A couple of deep learning models for training neural networks for medical image 
       - dataset.py: for reading image dataset and grountruth .csv file
       - model.py: ResNet model altered with wrapper to output feature map from each layer for visualization
       - grad_cam.py: for hooking target layer and computing gradients to output heatmaps
-      - main.py: implementing model and training on dataset. Includes "wandb" integration for veiwing model training data. Additionally includes computing of model performance, sensitivity and specificity, and plottinf ROC curve.
+      - main.py: implementing model and training on dataset. Includes "wandb" integration for veiwing model training data. Additionally includes computing of model performance, sensitivity and specificity, and plotting ROC curve.
         
     * Link to originally used dataset: https://challenge.isic-archive.com/data/#2016
       
