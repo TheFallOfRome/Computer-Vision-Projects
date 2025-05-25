@@ -1,0 +1,9 @@
+torch>=2.0.0
+torchvision>=0.15.0
+timm>=0.9.0                 #For PVTv2 encoder in U-Net v2
+numpy>=1.23.0
+matplotlib>=3.7.0
+Pillow>=9.4.0
+opencv-python>=4.7.0.68     #morphological operations
+scikit-learn>=1.2.2         #evaluation metrics (if used)
+wandb>=0.15.0               #logging training metrics
