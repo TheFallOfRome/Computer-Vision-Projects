@@ -7,3 +7,4 @@ Pillow>=9.4.0
 opencv-python>=4.7.0.68     #morphological operations
 scikit-learn>=1.2.2         #evaluation metrics (if used)
 wandb>=0.15.0               #logging training metrics
+segmentation-models-pytorch>= 0.3.3    #for vanilla U-Net pretraining
