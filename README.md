@@ -1,9 +1,9 @@
 ﻿# Computer-Vision-Projects
 A couple of deep learning models for training neural networks for medical image analysis using PyTorch
 
-# Folder Descriptions
+## Folder Descriptions
 
- - Comparing U-Net and U-Net v2 
+ ### Comparing U-Net and U-Net v2 
     * A comparative research project evaluating U-Net and U-Net v2 architectures for skin lesion segmentation on the ISIC 2017 dataset. This study investigates how architectural differences, pretraining, data augmentation, and hyperparameter tuning affect segmentation  
       performance.
       
@@ -24,7 +24,7 @@ A couple of deep learning models for training neural networks for medical image 
       International Skin Imaging Collaboration (ISIC)". arXiv: 1710.05006 [cs.CV]
      
       
- - ResNet152 Classification with Heatmaps
+ ### ResNet152 Classification with Heatmaps
     * A classification project using a pretrained ResNet152 model on the ISIC 2016 Task 3 dataset for melanoma detection. Grad-CAM is used to visualize class-discriminative regions through activation heatmaps at various ResNet layers.
       
     * File description:
